@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger P. Levy | Language Processing Group</title>
+    <link>https://langprocgroup.github.io/author/roger-p.-levy/</link>
+      <atom:link href="https://langprocgroup.github.io/author/roger-p.-levy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger P. Levy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Roger P. Levy</title>
+      <link>https://langprocgroup.github.io/author/roger-p.-levy/</link>
+    </image>
+    
+    <item>
+      <title>Dependency locality as an explanatory principle for word order</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-dependency/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lossy-Context Surprisal: An information-theoretic model of memory effects in sentence processing</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-lossy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-lossy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maze Made Easy: Better and easier measurement of incremental processing difficulty</title>
+      <link>https://langprocgroup.github.io/publication/boyce-2020-maze/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/boyce-2020-maze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do RNNs learn human-like abstract word order preferences?</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-rnns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-rnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical representation in neural language models: Suppression and recovery of expectations</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How efficiency shapes human language</title>
+      <link>https://langprocgroup.github.io/publication/gibson-2019-efficiency/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/gibson-2019-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What syntactic structures block dependencies in RNN language models?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-what/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical comparison of some theories of NP word order</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-statistical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do RNN language models learn about filler--gap dependencies?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2018-what/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2018-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing dependency distance</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-generalizing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-generalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy-context surprisal as a human sentence processing cost model</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-noisy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-noisy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

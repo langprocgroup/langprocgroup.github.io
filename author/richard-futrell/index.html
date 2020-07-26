@@ -1,0 +1,851 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="The Language Processing Group at the University of California, Irvine">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://langprocgroup.github.io/author/richard-futrell/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/author/richard-futrell/index.xml" type="application/rss+xml" title="Language Processing Group">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://langprocgroup.github.io/author/richard-futrell/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Language Processing Group">
+  <meta property="og:url" content="https://langprocgroup.github.io/author/richard-futrell/">
+  <meta property="og:title" content="Richard Futrell | Language Processing Group">
+  <meta property="og:description" content="The Language Processing Group at the University of California, Irvine"><meta property="og:image" content="https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2020-07-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Richard Futrell | Language Processing Group</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Language Processing Group</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Language Processing Group</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+<div class="universal-wrapper pt-3">
+  <h1>Richard Futrell</h1>
+</div>
+
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    
+    
+
+    
+    
+    
+    <div class="article-widget content-widget-hr">
+      <h3>Latest</h3>
+      <ul>
+        
+        <li>
+          <a href="/publication/futrell-2020-what/">What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</a>
+        </li>
+        
+        <li>
+          <a href="/publication/conway-2020-communication/">Communication efficiency of color naming across languages provides a new framework for the evolution of color terms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2020-dependency/">Dependency locality as an explanatory principle for word order</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2020-lossy/">Lossy-Context Surprisal: An information-theoretic model of memory effects in sentence processing</a>
+        </li>
+        
+        <li>
+          <a href="/publication/boyce-2020-maze/">Maze Made Easy: Better and easier measurement of incremental processing difficulty</a>
+        </li>
+        
+        <li>
+          <a href="/publication/hahn-2020-universals/">Universals of word order reflect optimization of grammars for efficient communication</a>
+        </li>
+        
+        <li>
+          <a href="/publication/yadav-2019-formal/">Are formal restrictions on crossing dependencies epiphenomenal?</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2019-rnns/">Do RNNs learn human-like abstract word order preferences?</a>
+        </li>
+        
+        <li>
+          <a href="/publication/hahn-2019-estimating/">Estimating predictive rate--distortion curves using neural variational inference</a>
+        </li>
+        
+        <li>
+          <a href="/publication/wilcox-2019-hierarchical/">Hierarchical representation in neural language models: Suppression and recovery of expectations</a>
+        </li>
+        
+        <li>
+          <a href="/publication/gibson-2019-efficiency/">How efficiency shapes human language</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2019-information/">Information-theoretic locality properties of natural language</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2019-neural/">Neural language models as psycholinguistic subjects: Representations of syntactic state</a>
+        </li>
+        
+        <li>
+          <a href="/publication/wilcox-2019-structural/">Structural supervision improves learning of non-local grammatical dependencies</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2019-syntactic/">Syntactic dependencies correspond to word pairs with high mutual information</a>
+        </li>
+        
+        <li>
+          <a href="/publication/wilcox-2019-what/">What syntactic structures block dependencies in RNN language models?</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2017-statistical/">A statistical comparison of some theories of NP word order</a>
+        </li>
+        
+        <li>
+          <a href="/publication/hahn-2018-information/">An information-theoretic explanation of adjective ordering preferences</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ryskin-2018-comprehenders/">Comprehenders model the nature of noise in the environment</a>
+        </li>
+        
+        <li>
+          <a href="/publication/hahn-2018-mutual/">Mutual information impacts adjective ordering across languages</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2018-natural/">The Natural Stories Corpus</a>
+        </li>
+        
+        <li>
+          <a href="/publication/wilcox-2018-what/">What do RNN language models learn about filler--gap dependencies?</a>
+        </li>
+        
+        <li>
+          <a href="/publication/dye-2017-functional/">A functional theory of gender paradigms</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2017-generative/">A generative model of phonotactics</a>
+        </li>
+        
+        <li>
+          <a href="/publication/gibson-2017-color/">Color naming across languages reflects color use</a>
+        </li>
+        
+        <li>
+          <a href="/publication/dye-2017-nice/">Cute little puppies and nice cold beers: An information-theoretic analysis of prenominal adjectives</a>
+        </li>
+        
+        <li>
+          <a href="/publication/gibson-2017-dont/">Don&#39;t underestimate the benefits of being misunderstood</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2017-generalizing/">Generalizing dependency distance</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2017-memory/">Memory and locality in natural language</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2017-noisy/">Noisy-context surprisal as a human sentence processing cost model</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2016-corpus/">A corpus investigation of syntactic embedding in Pirahã</a>
+        </li>
+        
+        <li>
+          <a href="/publication/mahowald-2016-metaanalysis/">A meta-analysis of syntactic priming in language production</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2016-l-2/">L2 processing as noisy channel language comprehension: Response to Cunnings (2016)</a>
+        </li>
+        
+        <li>
+          <a href="/publication/shain-2016-memory/">Memory access during incremental sentence processing causes reading time latency</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2015-crosslinguistic/">Cross-linguistic gestures reflect typological universals: A subject-initial, verb-final bias in speakers of diverse languages</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2015-experiments/">Experiments with generative models for dependency tree linearization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2015-largescale/">Large-scale evidence of dependency length minimization in 37 languages</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2015-quantifying/">Quantifying word order freedom in dependency corpora</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2015-response/">Response to Liu, Xu, and Liang (2015) and Ferrer-i-Cancho and Gómez-Rodrǵuez (2015) on dependency length minimization</a>
+        </li>
+        
+        <li>
+          <a href="/publication/shih-2015-rhythms/">Rythm&#39;s role in the genitive construction choice in spoken English</a>
+        </li>
+        
+        <li>
+          <a href="/publication/ramscar-2014-universal/">The `universal&#39; structure of name grammars and the impact of social engineering on the evolution of natural information systems</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2012-processing/">Processing effects of the expectation of informativity</a>
+        </li>
+        
+        <li>
+          <a href="/publication/futrell-2010-german/">German grammatical gender as a nominal protection device</a>
+        </li>
+        
+      </ul>
+    </div>
+    
+  </div>
+</section>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

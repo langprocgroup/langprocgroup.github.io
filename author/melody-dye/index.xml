@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melody Dye | Language Processing Group</title>
+    <link>https://langprocgroup.github.io/author/melody-dye/</link>
+      <atom:link href="https://langprocgroup.github.io/author/melody-dye/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melody Dye</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Melody Dye</title>
+      <link>https://langprocgroup.github.io/author/melody-dye/</link>
+    </image>
+    
+    <item>
+      <title>A functional theory of gender paradigms</title>
+      <link>https://langprocgroup.github.io/publication/dye-2017-functional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dye-2017-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cute little puppies and nice cold beers: An information-theoretic analysis of prenominal adjectives</title>
+      <link>https://langprocgroup.github.io/publication/dye-2017-nice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dye-2017-nice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The `universal&#39; structure of name grammars and the impact of social engineering on the evolution of natural information systems</title>
+      <link>https://langprocgroup.github.io/publication/ramscar-2014-universal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/ramscar-2014-universal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

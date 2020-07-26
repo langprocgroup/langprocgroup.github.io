@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Language Processing Group</title>
+    <link>https://langprocgroup.github.io/publication-type/1/</link>
+      <atom:link href="https://langprocgroup.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://langprocgroup.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-what/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are formal restrictions on crossing dependencies epiphenomenal?</title>
+      <link>https://langprocgroup.github.io/publication/yadav-2019-formal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/yadav-2019-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do RNNs learn human-like abstract word order preferences?</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-rnns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-rnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical representation in neural language models: Suppression and recovery of expectations</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-theoretic locality properties of natural language</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-information/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic dependencies correspond to word pairs with high mutual information</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What syntactic structures block dependencies in RNN language models?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-what/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information-theoretic explanation of adjective ordering preferences</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2018-information/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2018-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Natural Stories Corpus</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2018-natural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2018-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do RNN language models learn about filler--gap dependencies?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2018-what/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2018-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cute little puppies and nice cold beers: An information-theoretic analysis of prenominal adjectives</title>
+      <link>https://langprocgroup.github.io/publication/dye-2017-nice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dye-2017-nice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy-context surprisal as a human sentence processing cost model</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-noisy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-noisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory access during incremental sentence processing causes reading time latency</title>
+      <link>https://langprocgroup.github.io/publication/shain-2016-memory/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/shain-2016-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments with generative models for dependency tree linearization</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-experiments/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying word order freedom in dependency corpora</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-quantifying/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The `universal&#39; structure of name grammars and the impact of social engineering on the evolution of natural information systems</title>
+      <link>https://langprocgroup.github.io/publication/ramscar-2014-universal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/ramscar-2014-universal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

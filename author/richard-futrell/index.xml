@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Futrell | Language Processing Group</title>
+    <link>https://langprocgroup.github.io/author/richard-futrell/</link>
+      <atom:link href="https://langprocgroup.github.io/author/richard-futrell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard Futrell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Richard Futrell</title>
+      <link>https://langprocgroup.github.io/author/richard-futrell/</link>
+    </image>
+    
+    <item>
+      <title>What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-what/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication efficiency of color naming across languages provides a new framework for the evolution of color terms</title>
+      <link>https://langprocgroup.github.io/publication/conway-2020-communication/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/conway-2020-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependency locality as an explanatory principle for word order</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-dependency/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lossy-Context Surprisal: An information-theoretic model of memory effects in sentence processing</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2020-lossy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2020-lossy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maze Made Easy: Better and easier measurement of incremental processing difficulty</title>
+      <link>https://langprocgroup.github.io/publication/boyce-2020-maze/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/boyce-2020-maze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universals of word order reflect optimization of grammars for efficient communication</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2020-universals/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2020-universals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are formal restrictions on crossing dependencies epiphenomenal?</title>
+      <link>https://langprocgroup.github.io/publication/yadav-2019-formal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/yadav-2019-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do RNNs learn human-like abstract word order preferences?</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-rnns/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-rnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating predictive rate--distortion curves using neural variational inference</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2019-estimating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2019-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical representation in neural language models: Suppression and recovery of expectations</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How efficiency shapes human language</title>
+      <link>https://langprocgroup.github.io/publication/gibson-2019-efficiency/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/gibson-2019-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information-theoretic locality properties of natural language</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-information/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic dependencies correspond to word pairs with high mutual information</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What syntactic structures block dependencies in RNN language models?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-what/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical comparison of some theories of NP word order</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-statistical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information-theoretic explanation of adjective ordering preferences</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2018-information/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2018-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehenders model the nature of noise in the environment</title>
+      <link>https://langprocgroup.github.io/publication/ryskin-2018-comprehenders/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/ryskin-2018-comprehenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual information impacts adjective ordering across languages</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2018-mutual/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2018-mutual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Natural Stories Corpus</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2018-natural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2018-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do RNN language models learn about filler--gap dependencies?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2018-what/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2018-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional theory of gender paradigms</title>
+      <link>https://langprocgroup.github.io/publication/dye-2017-functional/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dye-2017-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generative model of phonotactics</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-generative/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color naming across languages reflects color use</title>
+      <link>https://langprocgroup.github.io/publication/gibson-2017-color/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/gibson-2017-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cute little puppies and nice cold beers: An information-theoretic analysis of prenominal adjectives</title>
+      <link>https://langprocgroup.github.io/publication/dye-2017-nice/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dye-2017-nice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t underestimate the benefits of being misunderstood</title>
+      <link>https://langprocgroup.github.io/publication/gibson-2017-dont/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/gibson-2017-dont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing dependency distance</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-generalizing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-generalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory and locality in natural language</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-memory/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy-context surprisal as a human sentence processing cost model</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2017-noisy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2017-noisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A corpus investigation of syntactic embedding in Pirahã</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2016-corpus/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2016-corpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A meta-analysis of syntactic priming in language production</title>
+      <link>https://langprocgroup.github.io/publication/mahowald-2016-metaanalysis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/mahowald-2016-metaanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L2 processing as noisy channel language comprehension: Response to Cunnings (2016)</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2016-l-2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2016-l-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory access during incremental sentence processing causes reading time latency</title>
+      <link>https://langprocgroup.github.io/publication/shain-2016-memory/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/shain-2016-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-linguistic gestures reflect typological universals: A subject-initial, verb-final bias in speakers of diverse languages</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-crosslinguistic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-crosslinguistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments with generative models for dependency tree linearization</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-experiments/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale evidence of dependency length minimization in 37 languages</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-largescale/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-largescale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying word order freedom in dependency corpora</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-quantifying/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Liu, Xu, and Liang (2015) and Ferrer-i-Cancho and Gómez-Rodrǵuez (2015) on dependency length minimization</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2015-response/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2015-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rythm&#39;s role in the genitive construction choice in spoken English</title>
+      <link>https://langprocgroup.github.io/publication/shih-2015-rhythms/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/shih-2015-rhythms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The `universal&#39; structure of name grammars and the impact of social engineering on the evolution of natural information systems</title>
+      <link>https://langprocgroup.github.io/publication/ramscar-2014-universal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/ramscar-2014-universal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing effects of the expectation of informativity</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2012-processing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2012-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German grammatical gender as a nominal protection device</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2010-german/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2010-german/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
