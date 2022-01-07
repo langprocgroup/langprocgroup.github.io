@@ -5,12 +5,36 @@
     <link>https://langprocgroup.github.io/author/peng-qian/</link>
       <atom:link href="https://langprocgroup.github.io/author/peng-qian/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Qian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Peng Qian</title>
       <link>https://langprocgroup.github.io/author/peng-qian/</link>
     </image>
+    
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic dependencies correspond to word pairs with high mutual information</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-syntactic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
