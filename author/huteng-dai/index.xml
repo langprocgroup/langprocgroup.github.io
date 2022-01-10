@@ -5,12 +5,20 @@
     <link>https://langprocgroup.github.io/author/huteng-dai/</link>
       <atom:link href="https://langprocgroup.github.io/author/huteng-dai/index.xml" rel="self" type="application/rss+xml" />
     <description>Huteng Dai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Huteng Dai</title>
       <link>https://langprocgroup.github.io/author/huteng-dai/</link>
     </image>
+    
+    <item>
+      <title>Simple induction of (deterministic) probabilistic finite-state automata for phonotactics by stochastic gradient descent</title>
+      <link>https://langprocgroup.github.io/publication/dai-2021-simple/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dai-2021-simple/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

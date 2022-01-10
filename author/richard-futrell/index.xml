@@ -5,12 +5,100 @@
     <link>https://langprocgroup.github.io/author/richard-futrell/</link>
       <atom:link href="https://langprocgroup.github.io/author/richard-futrell/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard Futrell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Richard Futrell</title>
       <link>https://langprocgroup.github.io/author/richard-futrell/</link>
     </image>
+    
+    <item>
+      <title>An Information-Theoretic Characterization of Morphological Fusion</title>
+      <link>https://langprocgroup.github.io/publication/rathi-2021-information/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/rathi-2021-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting cross-linguistic adjective order with information gain</title>
+      <link>https://langprocgroup.github.io/publication/dyer-2021-predicting/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dyer-2021-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple induction of (deterministic) probabilistic finite-state automata for phonotactics by stochastic gradient descent</title>
+      <link>https://langprocgroup.github.io/publication/dai-2021-simple/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dai-2021-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT</title>
+      <link>https://langprocgroup.github.io/publication/papadimitriou-2021-deep/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/papadimitriou-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information-theoretic account of semantic inference in word production</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2021-information/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2021-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do dependency lengths explain constraints on crossing dependencies?</title>
+      <link>https://langprocgroup.github.io/publication/yadav-2021-dependency/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/yadav-2021-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling word and morpheme order in natural language as an efficient tradeoff of memory and surprisal</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2021-modeling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2021-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensitivity as a Complexity Measure for Sequence Classification Tasks</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2021-sensitivity/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2021-sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Natural Stories corpus: A reading-time corpus of English texts containing rare syntactic constructions</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2021-natural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2021-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What&#39;s new? A comprehension bias in favor of informativity</title>
+      <link>https://langprocgroup.github.io/publication/rohde-2021-whats/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/rohde-2021-whats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word order affects the frequency of adjective use across languages</title>
+      <link>https://langprocgroup.github.io/publication/kachakeche-2021-word/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/kachakeche-2021-word/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</title>

@@ -5,12 +5,20 @@
     <link>https://langprocgroup.github.io/author/william-dyer/</link>
       <atom:link href="https://langprocgroup.github.io/author/william-dyer/index.xml" rel="self" type="application/rss+xml" />
     <description>William Dyer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>William Dyer</title>
       <link>https://langprocgroup.github.io/author/william-dyer/</link>
     </image>
+    
+    <item>
+      <title>Predicting cross-linguistic adjective order with information gain</title>
+      <link>https://langprocgroup.github.io/publication/dyer-2021-predicting/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dyer-2021-predicting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</title>

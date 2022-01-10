@@ -5,12 +5,20 @@
     <link>https://langprocgroup.github.io/author/judith-degen/</link>
       <atom:link href="https://langprocgroup.github.io/author/judith-degen/index.xml" rel="self" type="application/rss+xml" />
     <description>Judith Degen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Judith Degen</title>
       <link>https://langprocgroup.github.io/author/judith-degen/</link>
     </image>
+    
+    <item>
+      <title>Modeling word and morpheme order in natural language as an efficient tradeoff of memory and surprisal</title>
+      <link>https://langprocgroup.github.io/publication/hahn-2021-modeling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/hahn-2021-modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An information-theoretic explanation of adjective ordering preferences</title>

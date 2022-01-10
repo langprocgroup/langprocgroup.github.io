@@ -5,12 +5,52 @@
     <link>https://langprocgroup.github.io/publication-type/1/</link>
       <atom:link href="https://langprocgroup.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://langprocgroup.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>An Information-Theoretic Characterization of Morphological Fusion</title>
+      <link>https://langprocgroup.github.io/publication/rathi-2021-information/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/rathi-2021-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting cross-linguistic adjective order with information gain</title>
+      <link>https://langprocgroup.github.io/publication/dyer-2021-predicting/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dyer-2021-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple induction of (deterministic) probabilistic finite-state automata for phonotactics by stochastic gradient descent</title>
+      <link>https://langprocgroup.github.io/publication/dai-2021-simple/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/dai-2021-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Subjecthood: Higher-Order Grammatical Features in Multilingual BERT</title>
+      <link>https://langprocgroup.github.io/publication/papadimitriou-2021-deep/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/papadimitriou-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word order affects the frequency of adjective use across languages</title>
+      <link>https://langprocgroup.github.io/publication/kachakeche-2021-word/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/kachakeche-2021-word/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks</title>
