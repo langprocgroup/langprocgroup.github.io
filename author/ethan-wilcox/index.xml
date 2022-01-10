@@ -14,3 +14,48 @@
     
   </channel>
 </rss>
+or/ethan-wilcox/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical representation in neural language models: Suppression and recovery of expectations</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What syntactic structures block dependencies in RNN language models?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-what/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do RNN language models learn about filler--gap dependencies?</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2018-what/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2018-what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
