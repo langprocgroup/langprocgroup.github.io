@@ -5,7 +5,7 @@
     <link>https://langprocgroup.github.io/author/himanshu-yadav/</link>
       <atom:link href="https://langprocgroup.github.io/author/himanshu-yadav/index.xml" rel="self" type="application/rss+xml" />
     <description>Himanshu Yadav</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu10226378635250344412.png</url>
       <title>Himanshu Yadav</title>
@@ -13,24 +13,12 @@
     </image>
     
     <item>
-      <title>Do dependency lengths explain constraints on crossing dependencies?</title>
-      <link>https://langprocgroup.github.io/publication/yadav-2021-dependency/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://langprocgroup.github.io/publication/yadav-2021-dependency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are formal restrictions on crossing dependencies epiphenomenal?</title>
-      <link>https://langprocgroup.github.io/publication/yadav-2019-formal/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://langprocgroup.github.io/publication/yadav-2019-formal/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
-n sentence processing.&lt;/p&gt;
+      <title>Himanshu Yadav</title>
+      <link>https://langprocgroup.github.io/author/himanshu-yadav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/author/himanshu-yadav/</guid>
+      <description>&lt;p&gt;I am a PhD student in 
+&lt;a href=&#34;https://vasishth.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vasishth&amp;rsquo;s Lab&lt;/a&gt; at the University of Potsdam. I am interested in modeling the interaction between working memory constraints and different sources of linguistic information used in the sentence comprehension process. My current work investigates - (a) Processing-based constraints underlying the quantitative patterns of structural complexity in natural languages, and (b) Individual-level differences in human sentence processing.&lt;/p&gt;
 </description>
     </item>
     
