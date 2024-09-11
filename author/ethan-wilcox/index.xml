@@ -5,7 +5,7 @@
     <link>https://langprocgroup.github.io/author/ethan-wilcox/</link>
       <atom:link href="https://langprocgroup.github.io/author/ethan-wilcox/index.xml" rel="self" type="application/rss+xml" />
     <description>Ethan Wilcox</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://langprocgroup.github.io/images/icon_hu10226378635250344412.png</url>
       <title>Ethan Wilcox</title>
@@ -13,17 +13,25 @@
     </image>
     
     <item>
-      <title>Ethan Wilcox</title>
-      <link>https://langprocgroup.github.io/author/ethan-wilcox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://langprocgroup.github.io/author/ethan-wilcox/</guid>
-      <description>&lt;p&gt;I am a fourth year in the Department of Linguistics at Harvard, with affiliations at the Computational Psycholinguistics Lab at MIT and the Meaning and the Modality Lab at Harvard. I employ methods from psycholinguistics to analyze Natural Language Processing systems, investigating how these techniques can be used to build more robust NLP models and how model performance bears on questions central to linguistic theory and acquisition. I employ a broad range of experimental approaches, from controlled syntactic tests, to broad statistical analysis of human behavior such as gaze duration during reading. I also work on recursive models of semantic and pragmatic reasoning, with one current project investigating how speakers and listeners coordinate on a shared common ground.&lt;/p&gt;
-</description>
+      <title>Hierarchical representation in neural language models: Suppression and recovery of expectations</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/wilcox-2019-hierarchical/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>
-pubDate>
+    <item>
+      <title>Neural language models as psycholinguistic subjects: Representations of syntactic state</title>
+      <link>https://langprocgroup.github.io/publication/futrell-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://langprocgroup.github.io/publication/futrell-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural supervision improves learning of non-local grammatical dependencies</title>
+      <link>https://langprocgroup.github.io/publication/wilcox-2019-structural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://langprocgroup.github.io/publication/wilcox-2019-structural/</guid>
       <description></description>
     </item>
